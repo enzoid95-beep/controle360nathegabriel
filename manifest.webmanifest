@@ -1,0 +1,31 @@
+{
+  "name": "Controle 360 · Nathalia e Gabriel",
+  "short_name": "Nathalia/Gabriel",
+  "description": "Planejamento financeiro compartilhado de Nathalia e Gabriel: caixa, orçamento, cartões, metas e investimentos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#03050a",
+  "theme_color": "#03050a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
